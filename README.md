@@ -1,1 +1,2 @@
 # Coding-one-final-_Shaohua-Yang
+Time passes in different directions, and these pixels often face another transformation of form as time goes by. Although we can watch its transformation from different angles, it is not able to change its dissipating trajectory. The aim of this project is that everything is diverse, just as when we use the mouse to place different points in the coordinates, each point takes on a different color and shape. 
